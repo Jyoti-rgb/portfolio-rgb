@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "role": "Software Developer Intern",
+    "organization": "AMLINO TECHNOLOGIES PVT LTD",
+    "start": "March 2024",
+    "end": "Present",
+    "location": "New Delhi",
+    "work-Mode": "WFH",
+    "image": "./amlino.jpg"
+  },
+  {
+    "id": 2,
+    "role": "US IT Recruitment",
+    "organization": "IT Trailblazers LLC",
+    "start": "June 2022",
+    "end": "December 2023",
+    "location": "Noida",
+    "work-Mode": "Onsite",
+    "image": "./ittb.jpg"
+  },
+  {
+    "id": 3,
+    "role": "Senior Executive",
+    "organization": "iEnergizer ",
+    "start": "Mar 2020 ",
+    "end": "Apr 2022",
+    "location": "Noida",
+    "work-Mode": "Onsite",
+    "image": "./ienergizer.jpg"
+  }
+]

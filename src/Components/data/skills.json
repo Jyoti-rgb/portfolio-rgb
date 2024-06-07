@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "HTML",
+    "image": "./html.png"
+  },
+  {
+    "id": 2,
+    "title": "CSS",
+    "image": "./css.png"
+  },
+  {
+    "id": 3,
+    "title": "Bootstrap 4",
+    "image": "./bootstrap.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Javascript",
+    "image": "./js.png"
+  },
+  {
+    "id": 5,
+    "title": "React",
+    "image": "./react.png"
+  },
+  {
+    "id": 6,
+    "title": "Node",
+    "image": "./node.png"
+  }
+]
