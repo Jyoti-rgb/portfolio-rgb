@@ -3,7 +3,6 @@ import Home from "./Components/Home";
 import Experinece from "./Components/Experinece";
 import Skills from "./Components/Skills";
 import Contact from "./Components/Contact";
-import Footer from "./Components/Footer";
 import Aos from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
@@ -22,7 +21,6 @@ function App() {
         <Skills />
         <Contact />
       </div>
-      <Footer />
     </div>
   );
 }
