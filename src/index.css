@@ -20,8 +20,13 @@ a {
 
 .nav-bar {
   display: flex;
+  justify-content: space-around;
   flex-wrap: wrap;
   align-items: center;
+}
+.logo {
+  font-size: 1.9rem;
+  font-weight: 500;
 }
 .text-item {
   padding: 1.5vw;

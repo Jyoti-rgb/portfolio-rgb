@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "role": "Software Developer Intern",
+    "role": "Software Developer",
     "organization": "AMLINO TECHNOLOGIES PVT LTD",
-    "start": "March 2024",
+    "start": "Octobar 2023",
     "end": "Present",
     "location": "New Delhi",
     "work-Mode": "WFH",
@@ -11,10 +11,10 @@
   },
   {
     "id": 2,
-    "role": "US IT Recruitment",
+    "role": "FrontEnd Developer",
     "organization": "IT Trailblazers LLC",
     "start": "June 2022",
-    "end": "December 2023",
+    "end": "September 2023",
     "location": "Noida",
     "work-Mode": "Onsite",
     "image": "./ittb.jpg"

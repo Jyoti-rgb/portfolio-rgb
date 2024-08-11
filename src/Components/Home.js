@@ -27,7 +27,7 @@ const Home = () => {
           <h1 ref={typedRef}></h1>
           <a
             href={pdf}
-            download="Jyoti_resume.pdf"
+            download=" resume.pdf"
             className="btn btn-outline-warning"
           >
             Download Resume
