@@ -1,16 +1,26 @@
 [
   {
     "id": 1,
+    "role": "Technical Support Engineer ,",
+    "organization": "Parahit Technologies Limited",
+    "start": "October 2024",
+    "end": "Present",
+    "location": "Delhi",
+    "work-Mode": "Onsite",
+    "image": "./parahit.jpeg"
+  },
+  {
+    "id": 2,
     "role": "Software Developer",
     "organization": "AMLINO TECHNOLOGIES PVT LTD",
-    "start": "March 2024",
-    "end": "Present",
+    "start": "October 2023",
+    "end": "September 2024",
     "location": "New Delhi",
     "work-Mode": "WFH",
     "image": "./amlino.jpg"
   },
   {
-    "id": 2,
+    "id": 3,
     "role": "US IT Recruiter",
     "organization": "IT Trailblazers LLC",
     "start": "June 2022",
@@ -20,7 +30,7 @@
     "image": "./ittb.jpg"
   },
   {
-    "id": 3,
+    "id": 4,
     "role": "Senior Executive",
     "organization": "iEnergizer ",
     "start": "Mar 2020 ",
